@@ -1,7 +1,6 @@
-Directory of Pinball Rule Sheets
-
-Bally
-Williams
-JJP
-Spooky
-Stern (modern)
+##Bally
+##Williams
+##JJP
+##Spooky
+##Stern (modern)
+King Kong: Myth of Terror Island
