@@ -78,6 +78,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Jersey Jack Pinball:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Harry Potter](/jersey-jack/harry-potter-rulesheet_GWyBj) | June 2025 | Eric Meunier | Joe Katz |
@@ -95,6 +96,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## American Pinball:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Barry O’s BBQ Challenge](/american-pinball/barry-os-bbq-challenge-rulesheet_GK1Kv) | March 2024 | Barry Oursler, Steven Bowden, Dennis Nordman, Ryan McQuaid | Steven Bowden, Joel Schober, Casey Butler|
@@ -107,6 +109,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Spooky Pinball:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Beetlejuice](/spooky/beetlejuice-rulesheet_GqZVo) | November 2024 | Bug Emery, Spooky Luke | Casey Butler, Luke Peters, Spooky DJ|
@@ -127,6 +130,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Multimorphic:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 | [Portal](/multimorphic/portal-extended-edition-rulesheet_GpebN) | March 2025 | Ian Harrower, Michael Ocean, Stephen Silver |  Ian Harrower, Michael Ocean | 
@@ -141,6 +145,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Heighway Pinball/Pinball Brothers:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Predator](/pinball-brothers/predator-rulesheet-pinball-brothers_Gwe3B) | November 2025 | Daniel Janson, Peter Dahlman, Andrea DiMolfetta | Andress Mellstrom, Daniel Janson, Elias Vestermark, Peter Dahlman|
@@ -149,6 +154,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Williams:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Barracora](/williams/barracora-williams-1981_GRo7K) | September 1981 | Roger Sharpe, Steve Epstein, Barry Oursler | Ed Suchocki|
@@ -156,6 +162,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Data East:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Robocop](/data-east/robocop-rulesheet_Grlxe) | November 1989 | Ed Cebula, Joe Kaminkow | Rob Quinn|
@@ -163,6 +170,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Capcom:
+
 | Game | Released | Designer | Rules/Code |
 |- |- |- |- |
 [Airborne](/capcom/airborne-rulesheet_G4EZe) | March 1996 | Claude Fernandez | Dan Markham, Jeff Marshall |
@@ -170,6 +178,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Gottlieb:
+
 | Game | Released | Designer | Rules/Code |
 |- |- |- |- |
 |[Shaq Attaq](/gottlieb/shaq-attaq-rules_G4PoV) | February 1995 | Jon Norris | Bob Wilson, Rand Paulin |
@@ -177,6 +186,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [*Return to top*](#heading--top)
 
 ## Chicago Gaming Company:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Pulp Fiction](/chicago-gaming/pulp-fiction-rulesheet_GoEkx) | March 2023 | Mark Ritchie | George Petro, Josh Sharpe|
@@ -185,6 +195,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 
 
 ## Barrels of Fun:
+
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Winchester Mystery House](/barrels-of-fun/winchester-mystery-house-rulesheet_GvBzO) | January 2026 | Karl DeAngelo | Karl DeAngelo / Eric Priepke|
