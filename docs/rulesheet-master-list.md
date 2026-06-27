@@ -6,7 +6,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 
 # 
 
-# Rulesheet Master List
+# Rulesheet Master List {#heading--top}
 - [Stern Pinball](#heading--stern)
 - [Jersey Jack Pinball](#heading--jjp)
 - [American Pinball](#heading--american)
@@ -23,11 +23,11 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 ## Legacy non-wiki Rulesheet List (external)
 [PAPA Rulesheets](https://replayfoundation.org/papa/learning-center/player-guide/rule-sheets/)
 
-## Stern Pinball:
+## Stern Pinball: {#heading--stern}
 
 |Game | Released | Designer | Rules/Code|
-| --- | --- | --- | --- |
-| [Transformers: More Than Meets The Eye](/stern/transformers-more-than-meets-the-eye-rulesheet_GBLzz) | June 2026 | Elliot Eismin | Elizabeth Gieske |
+|--- | --- | --- | ---|
+|[Transformers: More Than Meets The Eye](/stern/transformers-more-than-meets-the-eye-rulesheet_GBLzz) | June 2026 | Elliot Eismin | Elizabeth Gieske |
 |[Pokemon](/stern/pokemon-rulesheet_GV8wB) | March 2026 | George Gomez, Jack Danger | Tanio Klyce, Andrew Wilkening, Joshua Henderson|
 |[The Walking Dead Remastered](/stern/the-walking-dead-remastered-rulesheet_Gj6DE) | January 2026 | John Borg | Lyman Sheats (original), Mark Guidarelli (revisions)|
 |[Star Wars: Fall of the Empire](/stern/star-wars-fall-of-the-empire-rulesheet_Gxv81) | September 2025 | John Borg | Raymond Davidson|
@@ -75,9 +75,8 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 |[Sharkey’s Shootout](/stern/creating-a-rulesheet-for-sharkeys-shootout_GRwv0) | September 2000 | John Borg | �|
 | |  |  | |
 
-[*Return to top*](#heading--top)
-
-## Jersey Jack Pinball:
+### [*Return to top*](#heading--top)
+## Jersey Jack Pinball: {#heading--jjp}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
@@ -93,9 +92,8 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 |[The Hobbit](/jersey-jack/hobbit-pinball-rulesheet_G5bYr) | March 2016 | Joe Balcer | Keith Johnson|
 |Wizard of Oz | May 2013 | Joe Balcer | Keith Johnson|
 
-[*Return to top*](#heading--top)
-
-## American Pinball:
+### [*Return to top*](#heading--top)
+## American Pinball: {#heading--american}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
@@ -106,13 +104,12 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 |[Oktoberfest: Pinball on Tap](/american-pinball/oktoberfest-pinball-on-tap-rulesheet_GLWBV) | October 2018 | Joe Balcer | Joe Schober, Josh Kugler|
 |[Houdini](/american-pinball/houdini-rulesheet_GvBQX) | October 2017 | Joe Balcer | Josh Kugler|
 
-[*Return to top*](#heading--top)
-
-## Spooky Pinball:
+### [*Return to top*](#heading--top)
+## Spooky Pinball: {#heading--spooky}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
-|[Beetlejuice](/spooky/beetlejuice-rulesheet_GqZVo) | November 2024 | Bug Emery, Spooky Luke | Casey Butler, Luke Peters, Spooky DJ|
+|[Beetlejuice](/spooky/beetlejuice-rulesheet_GqZVo) | June 2026 | Bug Emery, Spooky Luke | Casey Butler, Luke Peters, Spooky DJ|
 |[Evil Dead](/spooky/evil-dead-by-spooky-pinball-rulesheet_GYWvw) | November 2024 | Bug Emery, Spooky Luke | Ben Heck, Bug Emery, Hilton Jones, Luke Peters|
 |[Looney Tunes](/spooky/looney-tunes-rulesheet_GJ2K0) | December 2023 | Bug Emery, Spooky Luke | Luke Peters, Spooky DJ|
 |Texas Chainsaw Massacre | December 2023 | Bug Emery, Spooky Luke | Benjamin Heckendorn, Bug Emery, Hilton Jones|
@@ -127,9 +124,8 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 |Rob Zombie's Spookshow International | February 2016 | Charlie Emery | David Fawcett|
 |America's Most Haunted | April 2014 | Benjamin Heckendorn | |
 
-[*Return to top*](#heading--top)
-
-## Multimorphic:
+### [*Return to top*](#heading--top)
+## Multimorphic: {#heading--multimorphic}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
@@ -142,59 +138,51 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 | Cosmic Cart Racing 	| October 2018 | Gerry Stellenberg & TJ Weaver | Gerry Stellenberg |
 | [Lexy Lightspeed - Escape from Earth](/multimorphic/lexy-lightspeed-escape-from-earth_G4doo) 	| July 2017 | Dennis Nordman & TJ Weaver | BJ Wilson, Gerry Stellenberg, Michael Ocean |
 
-[*Return to top*](#heading--top)
-
-## Heighway Pinball/Pinball Brothers:
+### [*Return to top*](#heading--top)
+## Heighway Pinball/Pinball Brothers: {#heading--brothers}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Predator](/pinball-brothers/predator-rulesheet-pinball-brothers_Gwe3B) | November 2025 | Daniel Janson, Peter Dahlman, Andrea DiMolfetta | Andress Mellstrom, Daniel Janson, Elias Vestermark, Peter Dahlman|
 |[Alien](/pinball-brothers/pinball-brothers-alien-rulesheet_G4PBO) | February 2017 | Dave Sanders | Brian Dominy, Joe Schober|
 
-[*Return to top*](#heading--top)
-
-## Williams:
+### [*Return to top*](#heading--top)
+## Williams: {#heading--wms}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Barracora](/williams/barracora-williams-1981_GRo7K) | September 1981 | Roger Sharpe, Steve Epstein, Barry Oursler | Ed Suchocki|
 
-[*Return to top*](#heading--top)
-
-## Data East:
+### [*Return to top*](#heading--top)
+## Data East: {#heading--de}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Robocop](/data-east/robocop-rulesheet_Grlxe) | November 1989 | Ed Cebula, Joe Kaminkow | Rob Quinn|
 
-[*Return to top*](#heading--top)
-
-## Capcom:
+### [*Return to top*](#heading--top)
+## Capcom: {#heading--capcom}
 
 | Game | Released | Designer | Rules/Code |
 |- |- |- |- |
 [Airborne](/capcom/airborne-rulesheet_G4EZe) | March 1996 | Claude Fernandez | Dan Markham, Jeff Marshall |
 
-[*Return to top*](#heading--top)
-
-## Gottlieb:
+### [*Return to top*](#heading--top)
+## Gottlieb: {#heading--gottlieb}
 
 | Game | Released | Designer | Rules/Code |
 |- |- |- |- |
 |[Shaq Attaq](/gottlieb/shaq-attaq-rules_G4PoV) | February 1995 | Jon Norris | Bob Wilson, Rand Paulin |
 
-[*Return to top*](#heading--top)
-
-## Chicago Gaming Company:
+### [*Return to top*](#heading--top)
+## Chicago Gaming Company: {#heading--chicago}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
 |[Pulp Fiction](/chicago-gaming/pulp-fiction-rulesheet_GoEkx) | March 2023 | Mark Ritchie | George Petro, Josh Sharpe|
 
-[*Return to top*](#heading--top)
-
-
-## Barrels of Fun:
+### [*Return to top*](#heading--top)
+## Barrels of Fun: {#heading--barrels}
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
@@ -202,4 +190,4 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 |[Dune](/barrels-of-fun/dune-rulesheet_Gd266) | April 2025 | David Van Es, Travis Moseman | Phil Grimaldi, Bowen Kerins|
 |[Labyrinth](/barrels-of-fun/labyrinth-rulesheet_GvBn8) | October 2023 | David Van Es | Phil Grimaldi, Bowen Kerins|
 
-[*Return to top*](#heading--top)
+### [*Return to top*](#heading--top)
