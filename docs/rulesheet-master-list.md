@@ -25,8 +25,8 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 
 ## Stern Pinball:
 |Game | Released | Designer | Rules/Code|
-|--- | --- | --- | ---|
-|[Transformers: More Than Meets The Eye](/stern/transformers-more-than-meets-the-eye-rulesheet_GBLzz) | June 2026 | Elliot Eismin | Elizabeth Gieske |
+| --- | --- | --- | --- |
+| [Transformers: More Than Meets The Eye](/stern/transformers-more-than-meets-the-eye-rulesheet_GBLzz) | June 2026 | Elliot Eismin | Elizabeth Gieske |
 |[Pokemon](/stern/pokemon-rulesheet_GV8wB) | March 2026 | George Gomez, Jack Danger | Tanio Klyce, Andrew Wilkening, Joshua Henderson|
 |[The Walking Dead Remastered](/stern/the-walking-dead-remastered-rulesheet_Gj6DE) | January 2026 | John Borg | Lyman Sheats (original), Mark Guidarelli (revisions)|
 |[Star Wars: Fall of the Empire](/stern/star-wars-fall-of-the-empire-rulesheet_Gxv81) | September 2025 | John Borg | Raymond Davidson|
